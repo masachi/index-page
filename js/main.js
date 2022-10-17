@@ -2,6 +2,7 @@ import { greet, date } from "./date";
 import { bindThemeButtons, loadTheme } from "./themer";
 import { initKeyboardSearch } from "./search"
 
+
 const t0 = new Date()
 
 document.addEventListener('DOMContentLoaded', async () => {
