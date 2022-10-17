@@ -1,11 +1,11 @@
 name: Docker Image CI
 
-on:
-  push:
-    branches:
-      - master
-    paths-ignore:
-      - 'README.md'
+#on:
+#  push:
+#    branches:
+#      - master
+#    paths-ignore:
+#      - 'README.md'
 
 env:
   IMAGE_NAME: sui2

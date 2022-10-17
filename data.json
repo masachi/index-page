@@ -1,0 +1,73 @@
+{
+  "apps": [
+    {
+      "items": [
+        {
+          "name": "Masachi Blog",
+          "url": "https://masachi.cv3sarato.ga",
+          "icon": "blogger"
+        },
+        {
+          "name": "Github",
+          "url": "https://github.com/masachi",
+          "icon": "github"
+        },
+        {
+          "name": "Gmail",
+          "url": "mailto:zhangjb42@gmail.com",
+          "icon": "gmail"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/YukinoKyaru",
+          "icon": "twitter"
+        },
+        {
+          "name": "订阅",
+          "url": "https://subs.cv3sarato.ga",
+          "icon": "rss"
+        },
+        {
+          "name": "Umi Template",
+          "url": "https://github.com/masachi/umi-template",
+          "icon": "github-face"
+        },
+        {
+          "name": "SpringBoot Template",
+          "url": "https://github.com/masachi/spring-boot-template",
+          "icon": "github-face"
+        }
+      ]
+    }
+  ],
+  "bookmarks": [
+    {
+      "category": "大佬",
+      "links": [
+        {
+          "name": "Targeral",
+          "url": "https://github.com/targeral"
+        },
+        {
+          "name": "Mugun",
+          "url": "https://github.com/mugin"
+        },
+        {
+          "name": "Dr. lqisa",
+          "url": "https://github.com/lqisa"
+        },
+        {
+          "name": "9956",
+          "url": "https://github.com/z9956"
+        }
+      ]
+    },
+    {
+      "category": "？？？",
+      "links": [
+
+      ]
+    }
+  ]
+}
+

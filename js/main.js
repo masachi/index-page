@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   loadTheme()
   date()
   greet()
-  bindThemeButtons()
+  // bindThemeButtons()
   initKeyboardSearch()
   console.log('done DOMContentLoaded', `${new Date() - t0}ms`)
 })
